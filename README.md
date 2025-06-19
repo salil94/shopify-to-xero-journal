@@ -60,5 +60,5 @@ MIT License
 
 ## Author
 
-Sahil
+Sahil Loy Dsouza
 
